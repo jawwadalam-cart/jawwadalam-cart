@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jawwad
-- 🌱 I’m currently learning writing APIs using GraphQL
 
 <!---
 jawwadalam-cart/jawwadalam-cart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
